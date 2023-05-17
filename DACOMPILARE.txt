@@ -2,11 +2,11 @@
 # Componenti del gruppo in ordine alfabetico per cognome:
 
 # Componente 1
-NOME: DAVIDE
-COGNOME: NAPPO
-MATRICOLA: 110157
-EMAIL UNICAM: davide.nappo@studenti.unicam.it
-ANNO DI ISCRIZIONE AL PRIMO ANNO:2019/2020
+NOME: 
+COGNOME: 
+MATRICOLA: 
+EMAIL UNICAM: 
+ANNO DI ISCRIZIONE AL PRIMO ANNO:
 
 # Componente 2 (opzionale)
 NOME: 
